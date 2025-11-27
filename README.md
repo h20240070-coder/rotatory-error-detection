@@ -6,7 +6,6 @@ A machine learning-based system for detecting electrical faults in induction mot
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-orange)
 ![MATLAB](https://img.shields.io/badge/MATLAB-Simulink-red)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Latest-green)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-yellow)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 ---
