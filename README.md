@@ -15,12 +15,26 @@ This project focuses on automatic fault detection in induction motors using a mu
 
 ## Results
 - RandomForest
+
+  
   <img width="662" height="550" alt="image" src="https://github.com/user-attachments/assets/64efd03f-4aa7-454d-b7ba-c52a8d917326" />
 
+
+
+
 - Support Vector Machine
+
+
+
   <img width="659" height="551" alt="image" src="https://github.com/user-attachments/assets/8db90326-b1bc-45ff-b53d-1827dc6714be" />
 
+
+  
+
 - CNN
+
+
+
   ![WhatsApp Image 2025-11-27 at 18 53 19](https://github.com/user-attachments/assets/93867f16-6e91-467d-86b6-a0008f06e10a)
 
 
